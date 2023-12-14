@@ -51,7 +51,7 @@ DB_PASSWORD = sua_senha_aqui
 
 **Painel de Administração:** Se autenticado como administrador, o usuário terá acesso a uma aba especial para gerenciar contas.
 
-### Acesso para Admin
+### Acesso para Administrador
 - Username: admin
 - Password: admin
 
