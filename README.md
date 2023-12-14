@@ -58,3 +58,8 @@ DB_PASSWORD = sua_senha_aqui
 ### Acesso para Membro
 - Username: member
 - Password: member
+
+
+## Importante!
+
+⚠️ **Observação:** Tive alguns problemas de compatibilidade com a versão v21.1.0 do node, caso tenha o mesmo problema utilize a versão, utilize o nvm e faça downgrade do node para a versão v20.9.0
