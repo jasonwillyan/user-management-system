@@ -14,7 +14,7 @@ const { Console } = require('console');
 require('dotenv').config();
 
 // Unique secret key
-const secret_key = 'your secret key';
+const secret_key = 'H#C^N_2023';
 
 // Update the below details with your own MySQL connection details
 const connection = mysql.createConnection({
