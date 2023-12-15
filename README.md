@@ -7,7 +7,7 @@ Este projeto é uma aplicação web simples que oferece funcionalidades de login
 Certifique-se de ter os seguintes requisitos instalados:
 
 - Node.js
-- MySQL Server >= 5.6
+- MySQL Server (a versão deve estar dentro de 5.6 and 8.0.35)
 - MySQL Workbench
 - Express
 - Express Sessions
